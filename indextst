@@ -1,0 +1,29 @@
+<html>
+<head><title>SiteSandbox::1</title></head>
+
+<body>
+<br/><br/>
+<hr/>
+<h2>Welcome!</h2>
+<hr/>
+<h3>Students database [void group]</h3>
+<table border="2" td width="40%" valign="bottom">
+<tr>
+<td>Index</td>
+<td>First Name</td>
+<td>Last Name</td>
+<td>Rating</td>
+<td>Institute</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Iskander</td>
+<td>Sharipov</td>
+<td>23540</td>
+<td>V.M.K.</td>
+</tr>
+</table>
+<hr/>
+</body>
+
+</html>
